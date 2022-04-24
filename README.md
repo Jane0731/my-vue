@@ -10,15 +10,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 檔案介紹
+- ./src/App copy.vue 為Options API作法
+- ./src/App copy 2.vue Composition API作法
